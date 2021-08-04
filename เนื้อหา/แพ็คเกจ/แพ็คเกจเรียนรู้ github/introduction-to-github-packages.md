@@ -71,7 +71,7 @@ For more information, see "[About permissions for {% data variables.product.prod
 | .NET | NuGet package management for .NET | `nupkg`  |  `dotnet` CLI |
 | N/A | Docker container management | `Dockerfile` | `Docker` |
 
-{% ifversion ghes > 2.22 %}
+{% ifversion ghes > 99.9%}
 {% note %}
 
 **Note:** Docker is not supported when subdomain isolation is disabled.
